@@ -1,0 +1,74 @@
+.nav li{
+    display:inline;
+    list-style-type: none;
+    color:black}
+.nav{
+    position:fixed;
+    background-color: black;
+    width: 100vw;
+
+}
+
+.text-block_1{
+    position:absolute;
+    top: 500px;
+     
+    color:white
+}
+.about{
+    margin:1rem ;
+    padding: left 200px; 
+    width: 40%;
+    text-align: right;
+
+}
+    
+
+.search{
+    text-align:left;
+}
+
+
+
+.container_3{
+    width: 398;
+    height: 398px;
+
+
+}
+    
+.product{
+
+    margin:1rem;
+    padding:left 200px;
+    width:40%;
+    text-align:center;}
+   
+.card{
+    border:2px solid white;
+    border: radius 4px;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-auto-rows:auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.20);
+    max-width: 300px;
+    margin:auto;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
+
+.footer{
+    display: inline;
+    list-style-type: none;
+    position:absolute;
+    width: 100vw;
+    background: color #bf7631;}
+
+.contact{
+    align-content:right;
+    padding-left: 300;
+    
+}
+
